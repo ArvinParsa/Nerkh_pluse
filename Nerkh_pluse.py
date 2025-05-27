@@ -268,7 +268,7 @@ for row in data_rows:
 message += f"\n⏰ <i>تاریخ: {data_rows[0][-1]}</i>"
 
 # ارسال پیام به تلگرام
-TOKEN = '7971727510:AAExypGT8G8zpBVeYkk8LubAV-LRBs1ziTQ'
+TOKEN =''
 CHANNEL_ID = '@Nerkh_pluse'
 
 bot = Bot(token=TOKEN)
