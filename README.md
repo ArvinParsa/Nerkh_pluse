@@ -16,9 +16,7 @@ Installation & Usage | نصب و اجرا
 
 git clone https://github.com/ArvinParsa/nerkh-plus.git cd nerkh-plus pip install -r requirements.txt Configure your Telegram token and database in config.json. Run: python main.py 
 
-License | مجوز
 
-MIT License
 
 Contact | تماس
 
